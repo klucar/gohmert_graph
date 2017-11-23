@@ -1,8 +1,8 @@
 shape_id,shape
-1,oval
-2,diamond
-3,rounded rectangle
+1,csquare
+2,square
+3,crectangle
 4,rectangle
 5,circle
-6,red
+6,sphere
 7,logo
